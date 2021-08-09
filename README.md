@@ -1,4 +1,4 @@
-# Prodapt assessment
+# Bank unifier
 ## Requirements
 Python3 standard library
 
